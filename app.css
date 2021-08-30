@@ -1,0 +1,48 @@
+.form-contatos-main{
+    padding: 52px;
+}
+.form-group-block{
+    position: relative;
+    display: block;
+   
+    
+ 
+}
+
+.form-group-block > span{
+    position: relative;
+    display: block;
+    margin-left: 25px;
+    padding: 5px;
+}
+
+.form-contatos-main>h1{
+    font-size: 32px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.form-contatos-main > div{
+    position: relative;
+    display: block;
+    height: 220px;
+    padding: 0px;
+    margin-top: 0%;
+}
+
+.form-contatos-main .form-group-block{
+    height: 110px;
+    margin-top: 25px;
+}
+
+.form-contatos-main .form-group-block .container-btn{
+    position: relative;
+    height: 220px;
+    line-height:120px;
+    height: 50%;
+    margin-left: 25px;
+}
+
+.form-input:focus{
+ }
